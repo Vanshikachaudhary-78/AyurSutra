@@ -1,0 +1,2 @@
+# AyurSutra
+Documentation for AyurSutra
